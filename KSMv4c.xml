@@ -1,0 +1,1357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>KSM</name>
+      <longname>Kinesis Materia</longname>
+      <settype>KSM</settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Safety Link</name>
+      <set rarity="">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Link</type>
+        <maintype>Link</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You can play Safety Link from your sideboard.
+Stackless, Passive, Reactive: Tap: Add one colorless essence. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)
+A deck list can have any number of cards named Safety Link.</text>
+    </card>
+    <card>
+      <name>Red Link</name>
+      <set rarity="">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Link</type>
+        <maintype>Link</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Stackless, Passive, Reactive: Tap: Add three red essence. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)
+A deck list can have any number of cards named Red Link.</text>
+    </card>
+    <card>
+      <name>Blue Link</name>
+      <set rarity="">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Link</type>
+        <maintype>Link</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Stackless, Passive, Reactive: Tap: Add three blue essence. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)
+A deck list can have any number of cards named Blue Link.</text>
+    </card>
+    <card>
+      <name>Yellow Link</name>
+      <set rarity="">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Link</type>
+        <maintype>Link</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Stackless, Passive, Reactive: Tap: Add three yellow essence. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)
+A deck list can have any number of cards named Yellow Link.</text>
+    </card>
+    <card>
+      <name>Purple Link</name>
+      <set rarity="">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Link</type>
+        <maintype>Link</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Stackless, Passive, Reactive: Tap: Add three purple essence. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)
+A deck list can have any number of cards named Purple Link.</text>
+    </card>
+    <card>
+      <name>Green Link</name>
+      <set rarity="">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Link</type>
+        <maintype>Link</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Stackless, Passive, Reactive: Tap: Add three green essence. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)
+A deck list can have any number of cards named Green Link.</text>
+    </card>
+    <card>
+      <name>Orange Link</name>
+      <set rarity="">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Link</type>
+        <maintype>Link</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Stackless, Passive, Reactive: Tap: Add three orange essence. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)
+A deck list can have any number of cards named Orange Link.</text>
+    </card>
+    <card>
+      <name>Peasant Child</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 1 Essence.</text>
+    </card>
+    <card>
+      <name>Peasant</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 2 Essence.</text>
+    </card>
+    <card>
+      <name>Village Militia</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Peasant Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 5 Essence.
+Squadron (When this creature enters a battlefield, create a token that’s a copy of it in the same battlefield.)</text>
+    </card>
+    <card>
+      <name>Militia Captain</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Peasant Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 8 Essence.
+Commander (When this creature enters a battlefield, create a 1/1 creature token with its creature types in the same battlefield.)</text>
+    </card>
+    <card>
+      <name>Messenger</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 4 Essence, 1 Yellow Essence.
+Scout (Once during each of your turns, this creature can move without becoming tapped. It still has to be tappable.)</text>
+    </card>
+    <card>
+      <name>Krakethir Berserker</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 3 Essence, 2 Red Essence.
+Charge (This creature deals excess combat damage to the permanent or player it’s attacking.)</text>
+    </card>
+    <card>
+      <name>Krakethir Vindicator</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>6/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 8 Essence, 7 Red Essence.
+Terror (Creatures can’t block this creature alone.)</text>
+    </card>
+    <card>
+      <name>Krakethir Infantry</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 3 Essence, 1 Red Essence.
+Squadron (When this creature enters a battlefield, create a token that’s a copy of it in the same battlefield.)</text>
+    </card>
+    <card>
+      <name>Krakethir Trainee</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 1 Essence, 1 Red Essence.</text>
+    </card>
+    <card>
+      <name>Mighty Challenge</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Action</type>
+        <maintype>Action</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Essence, 1 Red Essence.
+Choose target creature you control and target creature in the opposing battlefield to it. They each deal damage equal to their power to the other.</text>
+    </card>
+    <card>
+      <name>Crush</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Action</type>
+        <maintype>Action</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Essence, 1 Red Essence.
+Destroy target artifact.</text>
+    </card>
+    <card>
+      <name>Krakethir Warbeast</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Elephant </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 5 Essence, 3 Red Essence.
+Charge (This creature deals excess combat damage to the permanent or player it’s attacking.)</text>
+    </card>
+    <card>
+      <name>Krakethir Bannerman</name>
+      <set rarity="uncommon">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 8 Essence, 4 Red Essence.
+Leader (When this creature changes battlefields, it may bring another creature you control with it.)
+Other creatures you control in the same battlefield as Krakethir Bannerman have Terror. (Creatures can’t block this creature alone.)</text>
+    </card>
+    <card>
+      <name>Silver Acolyte</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Creature - Silver Human Devotee </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 3 Essence, 1 Blue Essence.
+Silver Acolyte gets +1/+2 as long as you control another Silver in the same battlefield to it.</text>
+    </card>
+    <card>
+      <name>Copper Acolyte</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Creature - Copper Human Devotee </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 3 Essence, 1 Red Essence.
+Copper Acolyte gets +1/+2 as long as you control another Copper in the same battlefield to it.</text>
+    </card>
+    <card>
+      <name>Gold Acolyte</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Creature - Gold Human Devotee </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 3 Essence, 1 Yellow Essence.
+Gold Acolyte gets +1/+2 as long as you control another Gold in the same battlefield to it.</text>
+    </card>
+    <card>
+      <name>Iron Acolyte</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Creature - Iron Human Devotee </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 3 Essence, 1 Green Essence.
+Iron Acolyte gets +1/+2 as long as you control another Iron in the same battlefield to it.</text>
+    </card>
+    <card>
+      <name>Tin Acolyte</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Creature - Tin Human Devotee </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 3 Essence, 1 Orange Essence.
+Tin Acolyte gets +1/+2 as long as you control another Tin in the same battlefield to it.</text>
+    </card>
+    <card>
+      <name>Lead Acolyte</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Creature - Lead Human Devotee </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 3 Essence, 1 Purple Essence.
+Lead Acolyte gets +1/+2 as long as you control another Lead in the same battlefield to it.</text>
+    </card>
+    <card>
+      <name>Copper Ingot</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact - Copper </type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Essence, 1 Red Essence.
+Stackless, Passive, Reactive: Sacrifice Copper Ingot: Add three red essence. Spend this essence only to play Copper cards or activate abilities of Coppers. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)</text>
+    </card>
+    <card>
+      <name>Gold Ingot</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact - Gold </type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Essence, 1 Yellow Essence.
+Stackless, Passive, Reactive: Sacrifice Gold Ingot: Add three yellow essence. Spend this essence only to play Gold cards or activate abilities of Golds. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)</text>
+    </card>
+    <card>
+      <name>Silver Ingot</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact - Silver </type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Essence, 1 Blue Essence.
+Stackless, Passive, Reactive: Sacrifice Silver Ingot: Add three blue essence. Spend this essence only to play Silver cards or activate abilities of Silvers. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)</text>
+    </card>
+    <card>
+      <name>Tin Ingot</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact - Tin </type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Essence, 1 Orange Essence.
+Stackless, Passive, Reactive: Sacrifice Tin Ingot: Add three orange essence. Spend this essence only to play Tin cards or activate abilities of Tins. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)</text>
+    </card>
+    <card>
+      <name>Iron Ingot</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact - Iron </type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Essence, 1 Green Essence.
+Stackless, Passive, Reactive: Sacrifice Iron Ingot: Add three green essence. Spend this essence only to play Iron cards or activate abilities of Irons. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)</text>
+    </card>
+    <card>
+      <name>Lead Ingot</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact - Lead </type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Essence, 1 Purple Essence.
+Stackless, Passive, Reactive: Sacrifice Lead Ingot: Add three purple essence. Spend this essence only to play Lead cards or activate abilities of Leads. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)</text>
+    </card>
+    <card>
+      <name>Peasant Escapee</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 3 Essence.
+Passive (Playing this card or activating this ability doesn’t cost stamina.)</text>
+    </card>
+    <card>
+      <name>Arcane Acceleration</name>
+      <set rarity="uncommon">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Action</type>
+        <maintype>Action</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Essence, 2 Blue Essence.
+Add ten blue essence.</text>
+    </card>
+    <card>
+      <name>Finger of Nothing</name>
+      <set rarity="rare">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>10/10</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 35 Essence.
+Finger of Nothing costs an additional 3 stamina to play.
+When Finger of Nothing enters, destroy all creatures in the opposing battlefield to it.</text>
+    </card>
+    <card>
+      <name>Alloyist Renegade</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Creature - Monstrosity Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 4 Red, Blue, or Yellow Essence.
+Alloyist Renegade gets +1/+0 for each of a Copper, a Silver, and a Gold that you control.</text>
+    </card>
+    <card>
+      <name>Alloyist Mutator</name>
+      <set rarity="rare">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Creature - Monstrosity Kinetic </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 10 Red, Blue, or Yellow Essence.
+Reactive: Sacrifice a Copper: Search your deck for a Silver card with essence value up to 4 greater than or less than the essence value of the sacrificed Copper. (You may play this card or activate this ability as a reaction.)
+Reactive: Sacrifice a Silver: Search your deck for a Gold card with essence value up to 4 greater than or less than the essence value of the sacrificed Silver. (You may play this card or activate this ability as a reaction.)
+Reactive: Sacrifice a Gold: Search your deck for a Copper card with essence value up to 4 greater than or less than the essence value of the sacrificed Gold. (You may play this card or activate this ability as a reaction.)</text>
+    </card>
+    <card>
+      <name>Alloyed Link</name>
+      <set rarity="">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Link</type>
+        <maintype>Link</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Stackless, Passive, Reactive: Tap: Add two colorless essence. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)
+Stackless, Passive, Reactive: Tap: Add one red essence, one blue essence, and one yellow essence. Spend this essence only to play artifact objects or activate abilities of artifacts. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)
+A deck list can have any number of cards named Alloyed Link.</text>
+    </card>
+    <card>
+      <name>Alloyist Fleshsmith</name>
+      <set rarity="uncommon">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Creature - Monstrosity Laborer </type>
+        <maintype>Creature</maintype>
+        <pt>1/5</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 7 Red, Blue, or Yellow Essence.
+Whenever a creature is put into a discard pile from a battlefield, if an artifact has been put into a discard pile this turn, draw a card.
+Whenever an artifact is put into a discard pile from a battlefield, if a creature has been put into a discard pile this turn, each opponent discards a card.</text>
+    </card>
+    <card>
+      <name>Stone of Reaction</name>
+      <set rarity="rare">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 4 Essence, 3 Blue Essence.
+Objects you play and abilities you activate have reactive. (You may play this card or activate this ability as a reaction.)</text>
+    </card>
+    <card>
+      <name>Titan of Vesceroth</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Giant </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 13 Essence, 7 Blue Essence.
+Defensive (Whenever this creature attacks, untap it.)</text>
+    </card>
+    <card>
+      <name>Krakethir Ambassador</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Diplomat </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 4 Essence, 2 Red Essence.
+Traveller (This creature can’t gain travel fatigue.)</text>
+    </card>
+    <card>
+      <name>Krakethir Messenger</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 2 Essence, 1 Red Essence.
+Traveller (This creature can’t gain travel fatigue.)
+Scout (Once during each of your turns, this creature can move without becoming tapped. It still has to be tappable.)</text>
+    </card>
+    <card>
+      <name>Escape</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Action</type>
+        <maintype>Action</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Essence, 1 Yellow Essence.
+Choose target creature you control and target creature in the opposing battlefield to it. The creature you control gains scout until end of turn. Force tap the creature you don’t control and put an exhaustion counter on it. (Once during each of your turns, this creature can move without becoming tapped. It still has to be tappable. If a permanent with an exhaustion counter would become untapped, remove one from it instead.)</text>
+    </card>
+    <card>
+      <name>Revert</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Action</type>
+        <maintype>Action</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Essence, 5 Blue Essence.
+Reactive (You may play this card or activate this ability as a reaction.)
+Put target nonlink object into its owner’s discard pile.</text>
+    </card>
+    <card>
+      <name>Intercept</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Action</type>
+        <maintype>Action</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Essence, 2 Blue Essence.
+Reactive (You may play this card or activate this ability as a reaction.)
+Put target creature object into its owner’s discard pile.</text>
+    </card>
+    <card>
+      <name>Cancel</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Action</type>
+        <maintype>Action</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Essence, 2 Blue Essence.
+Reactive (You may play this card or activate this ability as a reaction.)
+Put target noncreature nonlink object into its owner’s discard pile.</text>
+    </card>
+    <card>
+      <name>Left Hand&apos;s Annihilation</name>
+      <set rarity="uncommon">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Action</type>
+        <maintype>Action</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 5 Essence, 5 Orange Essence.
+Destroy all creatures in your left battlefield and each opponent’s right battlefield.</text>
+    </card>
+    <card>
+      <name>Right Hand&apos;s Annihilation</name>
+      <set rarity="uncommon">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Action</type>
+        <maintype>Action</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 5 Essence, 5 Orange Essence.
+Destroy all creatures in your right battlefield and each opponent’s left battlefield.</text>
+    </card>
+    <card>
+      <name>Apocalypse</name>
+      <set rarity="rare">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Action</type>
+        <maintype>Action</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 7 Essence, 7 Orange Essence.
+Destroy all creatures in all battlefields.</text>
+    </card>
+    <card>
+      <name>Curse of Death</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 4 Essence, 2 Purple Essence.
+Curse creature
+The cursed creature gets -2/-2.</text>
+    </card>
+    <card>
+      <name>Blessing of Life</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 4 Essence, 2 Green Essence.
+Bless creature
+The blessed creature gets +2/+2.</text>
+    </card>
+    <card>
+      <name>Copper Sanctifier</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Creature - Copper Human Devotee </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 6 Essence, 3 Red Essence.
+Whenever Copper Sanctifier deals combat damage to a player, destroy target artifact in the same battlefield to it or the opposing battlefield to it.
+Copper Sanctifier gets +2/+1 as long as there are no non-Copper artifacts in the same battlefield as it or in the opposing battlefield to it.</text>
+    </card>
+    <card>
+      <name>Gold Sanctifier</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Creature - Gold Human Devotee </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 6 Essence, 3 Yellow Essence.
+Whenever Gold Sanctifier deals combat damage to a player, destroy target artifact in the same battlefield to it or the opposing battlefield to it.
+Gold Sanctifier gets +2/+1 as long as there are no non-Gold artifacts in the same battlefield as it or in the opposing battlefield to it.</text>
+    </card>
+    <card>
+      <name>Silver Sanctifier</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Creature - Silver Human Devotee </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 6 Essence, 3 Blue Essence.
+Whenever Silver Sanctifier deals combat damage to a player, destroy target artifact in the same battlefield to it or the opposing battlefield to it.
+Silver Sanctifier gets +2/+1 as long as there are no non-Silver artifacts in the same battlefield as it or in the opposing battlefield to it.</text>
+    </card>
+    <card>
+      <name>Iron Sanctifier</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Creature - Iron Human Devotee </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 6 Essence, 3 Green Essence.
+Whenever Iron Sanctifier deals combat damage to a player, destroy target artifact in the same battlefield to it or the opposing battlefield to it.
+Iron Sanctifier gets +2/+1 as long as there are no non-Iron artifacts in the same battlefield as it or in the opposing battlefield to it.</text>
+    </card>
+    <card>
+      <name>Lead Sanctifier</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Creature - Lead Human Devotee </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 6 Essence, 3 Purple Essence.
+Whenever Lead Sanctifier deals combat damage to a player, destroy target artifact in the same battlefield to it or the opposing battlefield to it.
+Lead Sanctifier gets +2/+1 as long as there are no non-Lead artifacts in the same battlefield as it or in the opposing battlefield to it.</text>
+    </card>
+    <card>
+      <name>Tin Sanctifier</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Creature - Tin Human Devotee </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cost = 6 Essence, 3 Orange Essence.
+Whenever Tin Sanctifier deals combat damage to a player, destroy target artifact in the same battlefield to it or the opposing battlefield to it.
+Tin Sanctifier gets +2/+1 as long as there are no non-Tin artifacts in the same battlefield as it or in the opposing battlefield to it.</text>
+    </card>
+    <card>
+      <name>Invoke Madness</name>
+      <set rarity="rare">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Action</type>
+        <maintype>Action</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 5 Essence, 5 Orange Essence.
+Reactive (You may play this card or activate this ability as a reaction.)
+This turn, if a creature would deal damage to a permanent or player, it deals that damage to itself instead of that permanent or player.</text>
+    </card>
+    <card>
+      <name>Stone of Knowledge</name>
+      <set rarity="rare">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 5 Essence, 6 Blue Essence.
+At the beginning of your main 1 phase, draw a card.</text>
+    </card>
+    <card>
+      <name>Blue Duplicator Link</name>
+      <set rarity="">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Link - Duplicator</type>
+        <maintype>Link</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Blue Duplicator Link enters tapped.
+When Blue Duplicator Link enters, return a non-duplicator link you control to your hand. Create a token that’s a copy of it.
+Stackless, Passive, Reactive: Tap: Add three blue essence. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)</text>
+    </card>
+    <card>
+      <name>Yellow Duplicator Link</name>
+      <set rarity="">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Link - Duplicator</type>
+        <maintype>Link</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Yellow Duplicator Link enters tapped.
+When Yellow Duplicator Link enters, return a non-duplicator link you control to your hand. Create a token that’s a copy of it.
+Stackless, Passive, Reactive: Tap: Add three yellow essence. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)</text>
+    </card>
+    <card>
+      <name>Orange Duplicator Link</name>
+      <set rarity="">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Link - Duplicator</type>
+        <maintype>Link</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Orange Duplicator Link enters tapped.
+When Orange Duplicator Link enters, return a non-duplicator link you control to your hand. Create a token that’s a copy of it.
+Stackless, Passive, Reactive: Tap: Add three orange essence. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)</text>
+    </card>
+    <card>
+      <name>Red Duplicator Link</name>
+      <set rarity="">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Link - Duplicator</type>
+        <maintype>Link</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Red Duplicator Link enters tapped.
+When Red Duplicator Link enters, return a non-duplicator link you control to your hand. Create a token that’s a copy of it.
+Stackless, Passive, Reactive: Tap: Add three red essence. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)</text>
+    </card>
+    <card>
+      <name>Purple Duplicator Link</name>
+      <set rarity="">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Link - Duplicator</type>
+        <maintype>Link</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Purple Duplicator Link enters tapped.
+When Purple Duplicator Link enters, return a non-duplicator link you control to your hand. Create a token that’s a copy of it.
+Stackless, Passive, Reactive: Tap: Add three purple essence. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)</text>
+    </card>
+    <card>
+      <name>Green Duplicator Link</name>
+      <set rarity="">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Link - Duplicator</type>
+        <maintype>Link</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Green Duplicator Link enters tapped.
+When Green Duplicator Link enters, return a non-duplicator link you control to your hand. Create a token that’s a copy of it.
+Stackless, Passive, Reactive: Tap: Add three green essence. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)</text>
+    </card>
+    <card>
+      <name>Shatterlink</name>
+      <set rarity="">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Link</type>
+        <maintype>Link</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Stackless, Passive, Reactive: Tap: Add two colorless essence. (This ability doesn’t use the stack and can be activated during cost payment. You may play this card or activate this ability as a reaction. Playing this card or activating this ability doesn’t cost stamina.)
+Reactive: Tap, Self-destroy this link: Destroy target link in the same battlefield to this or the opposing battlefield to this. Its controller may put a link that a deck list can have any number of from their sideboard onto the battlefield of the destroyed link tapped. (You may play this card or activate this ability as a reaction.)</text>
+    </card>
+    <card>
+      <name>Snap</name>
+      <set rarity="common">KSM</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Action</type>
+        <maintype>Action</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 5 Essence, 5 Purple Essence.
+Destroy target link.</text>
+    </card>
